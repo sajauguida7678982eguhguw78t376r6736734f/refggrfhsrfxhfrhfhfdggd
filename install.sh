@@ -99,7 +99,7 @@ curl ipinfo.io/region > /root/.region
 
 
 #link izin ip vps
-url_izin='https://raw.githubusercontent.com/jvoscript/Autoscript/main/izin.txt'
+url_izin='https://raw.githubusercontent.com/sajauguida7678982eguhguw78t376r6736734f/refggrfhsrfxhfrhfhfdggd/main/izin.txt'
 
 # Mendapatkan IP VPS saat ini
 ip_vps=$(curl -s ifconfig.me)
